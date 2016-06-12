@@ -134,7 +134,7 @@ def ScatteredDataIntegration(filename):
                 
                 
     result=INT+error
-    print('The approximate value of integral over the provided data set is: ',result,error)  
+    print('The approximate value of integral over the provided data set is: ',result,)  
        
 
               
